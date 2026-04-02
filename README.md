@@ -162,5 +162,3 @@ The cleaned data (`C-G11_mental_health_cleaned_final.csv`) serves as input for:
 This project is part of the C-G11 course assignment.
 
 ---
-
-**Last Updated:** 2026-04-02
